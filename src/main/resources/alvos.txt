@@ -1,8 +1,5 @@
-thales-almaviva,192.168.208.42,thales@2203
-almaviva-linux,192.168.208.79,renato@1234
-almaviva-linux,192.168.208.90,C4liforni4!
-almaviva,192.168.208.53,magna@123
-almaviva-linux,192.168.208.46,Almaviva04092004
-matheus,192.168.208.49,magna@123
-almaviva-linux,192.168.208.101,Magna@123
-vitor", 192.168.208.95, vito@123!
+ususario,ip,senha
+ususario,ip,senha
+ususario,ip,senha
+ususario,ip,senha
+ususario,ip,senha
